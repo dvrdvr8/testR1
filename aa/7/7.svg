@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1100 825" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_7"><path d="M-.2 825.3V-.2H1100.3V825.3Z"/></clipPath>
+<style>
+.g0_7{fill:#FFF;}
+.g1_7{fill:none;stroke:#F00;stroke-width:1.145;stroke-linejoin:round;stroke-dasharray:10,4;}
+.g2_7{fill:#F0F;}
+.g3_7{fill:#0F0;}
+.g4_7{fill:none;stroke:#F0F;stroke-width:1.145;stroke-linejoin:round;}
+.g5_7{fill:#06F;}
+</style>
+</defs>
+<g clip-path="url(#c0_7)">
+<image x="0" y="0" width="1100" height="825" href="shade/1.png"/>
+<image preserveAspectRatio="none" x="95" y="17" width="1005" height="77" href="img/1.jpg"/>
+</g>
+<path fill-rule="evenodd" d="M7.6 55.8C7.6 25 32.9 0 64.2 0c31.2 0 56.5 25 56.5 55.8c0 30.8-25.3 55.7-56.5 55.7c-31.3 0-56.6-24.9-56.6-55.7Z" class="g0_7"/>
+<g clip-path="url(#c0_7)">
+<image preserveAspectRatio="none" x="7" y="6" width="107" height="100" href="img/2.png"/>
+<image preserveAspectRatio="none" x="66" y="225" width="24" height="26" href="img/3.png"/>
+<image preserveAspectRatio="none" x="66" y="366" width="24" height="26" href="img/4.png"/>
+<image preserveAspectRatio="none" x="66" y="463" width="24" height="25" href="img/5.png"/>
+<image preserveAspectRatio="none" x="66" y="560" width="24" height="25" href="img/6.png"/>
+<image preserveAspectRatio="none" x="561" y="237" width="478" height="408" href="img/7.jpg"/>
+</g>
+<path d="M568.5 441.1c0-106.7 103.4-193.2 230.8-193.2c127.5 0 230.8 86.5 230.8 193.2c0 106.6-103.3 193.1-230.8 193.1c-127.4 0-230.8-86.5-230.8-193.1Z" class="g1_7"/>
+<path d="M585 447.3l427.9 .1v3.5l-428-.2Zm1.7 10.3L569.5 449l17.2-8.6Zm424.5-17l17.2 8.6l-17.2 8.6Z" class="g2_7"/>
+<path d="M803.6 263l.2 358.6h-2.3L801.3 263Zm-8.8 1.5l7.7-15.3l7.6 15.3Zm15.5 355.6l-7.7 15.3L795 620.1Z" class="g3_7"/>
+<path d="M567.4 449c0-16 104-28.9 232.2-28.9c128.3 0 232.2 12.9 232.2 28.9c0 15.9-103.9 28.8-232.2 28.8c-128.2 0-232.2-12.9-232.2-28.8Z" class="g4_7"/>
+<path d="M702.8 323L600.4 380l-.7-1.3l102.3-57Zm-99.2 59.6l-10.3 .5l5.8-8.5Z" class="g5_7"/>
+<path d="M956.5 664l-30.7-48.9l1.3-.8l30.7 48.9Zm-33.1-45.6l-1-10.2l8.7 5.4Z" class="g2_7"/>
+</svg>
